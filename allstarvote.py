@@ -1,3 +1,8 @@
+"""Comparing divisional rivals in the Seager/Cozart ASG 2017 vote.
+
+Really messy, apologies. Might come back and clean this up.
+"""
+
 
 import json
 from math import radians, sin, cos, asin, sqrt
